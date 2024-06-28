@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sanourith
-- 👀 I’m interested in IT, AI, gaming with Gatcha & MMORPG games.
+- 👋 Hi, I’m Matt
+- 👀 I’m interested in IT, AI and Data Sciences.
 - 🌱 I’m currently learning DevOps and Data Enginering
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
